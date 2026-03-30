@@ -1,0 +1,11 @@
+{
+  "name": "codex-verify",
+  "version": "1.0.0",
+  "description": "Claude Code skill that automatically verifies code changes and plans using OpenAI Codex CLI as an independent reviewer",
+  "skills": [
+    {
+      "name": "codex-verify",
+      "path": "skills/codex-verify/SKILL.md"
+    }
+  ]
+}
