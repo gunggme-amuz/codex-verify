@@ -1,7 +1,7 @@
 {
   "name": "codex-verify",
-  "version": "1.0.0",
-  "description": "Claude Code skill that automatically verifies code changes and plans using OpenAI Codex CLI as an independent reviewer",
+  "version": "2.0.0",
+  "description": "Cross-model code verification plugin using OpenAI Codex CLI with structured JSON parsing, delta tracking, HTML reports, project-level custom rules, and git hook integration",
   "skills": [
     {
       "name": "codex-verify",

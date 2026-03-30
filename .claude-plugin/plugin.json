@@ -1,0 +1,7 @@
+{
+  "name": "codex-verify",
+  "description": "Cross-model code verification using OpenAI Codex CLI. Automatically verifies code changes, plans, and security with structured JSON output, delta tracking across rounds, HTML reports, project-level custom rules, and git hook integration.",
+  "author": {
+    "name": "gunggme-amuz"
+  }
+}
